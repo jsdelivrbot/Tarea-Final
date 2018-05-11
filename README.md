@@ -15,17 +15,35 @@ También, en las páginas de visualización de notícias, he introducido el vide
 Por último, he codificado el javascript y los archivos json. A la hora de realizar las pruebas, he tenido que pasar la url de javascript con doble barra ya que al intentar ejecutar me generaba un error y depurando vi que se tragaba un caracter, la barra separadora del directorio, de modo que nunca hallaba el json. Tras ello, y aun está, introducí una alerta para comprobar si se devolvían datos del json, lo cual no he podido conseguir.
 
 ## Paso 3: validación del código.
-En este paso, he realizado la validación tanto de los html, como del javascript, los json y los css. No he introducido las imágenes puesto que en esta en entrega no se han solicitado. Se puede comprobar mediante los enlaces de GitHub.
+En este paso, he realizado la validación tanto de los html, como del javascript, los json y los css. Las imágenes son las siguientes:
 
+  - Para el javascript:
+  
 ![Imagen 1](/img/validacion_js.PNG).
+
+  - Para el json1:
 
 ![Imagen 2](/img/validacion_json1.PNG).
 
+  - Para el json2:
+
 ![Imagen 3](/img/validacion_json2.PNG).
+
+  - Para el css de móvil:
 
 ![Imagen 4](/img/validacion_css_mob.PNG).
 
+  - Para el css de pc:
+
 ![Imagen 5](/img/validacion_css_pc.PNG).
+
+  - Los html:
+ 
+ ![Imagen 6](/img/validacion_html1.PNG).
+ 
+ ![Imagen 7](/img/validacion_html2.PNG).
+ 
+ ![Imagen 8](/img/validacion_html3.PNG).
 
 ## Paso 4: comprobación de apartados.
 En cuanto a los apartados solicitados:
