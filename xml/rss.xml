@@ -7,8 +7,8 @@
    <description>SwitchPlay Noticias, la web noticiario de Nintendo.</description>
    <item>
      <title>Noticias</title>
-     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-     <description>New RSS tutorial on W3Schools</description>
+     <link>https://rawgit.com/Pimpollo21/Tarea-Final/master/news.html</link>
+     <description>Las noticias más recientes de Nintendo</description>
    </item>
 </channel>
 
