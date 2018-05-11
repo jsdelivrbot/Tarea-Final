@@ -1,0 +1,261 @@
+﻿/* =====================================================*/
+/* ===< Clases                                      >===*/
+/* =====================================================*/
+/**/
+/* ==============================*/
+/* Clase cabecera 2              */
+/* ==============================*/
+.center{
+	text-align:center;
+	color:white;		
+}
+
+.cabecera
+{	border-style:     outset;
+	border-color:     rgb(0, 60, 69);
+	background: linear-gradient(rgb(255, 252, 82), white);
+	padding:		  20px;
+	
+	margin-left:	  0px;
+	margin-right:     0px;
+	margin-top:       50px;
+	margin-bottom:    0px;
+	
+	font-weight:      bold;
+}
+
+.cabecera2{
+	border-style:     outset;
+	border-color:     rgb(0, 60, 69);
+	background: linear-gradient(rgb(255, 252, 82), white);
+	padding:		  20px;
+	
+	margin-left:	  0px;
+	margin-right:     0px;
+	margin-top:       0px;
+	margin-bottom:    0px;
+	
+	font-weight:      bold;
+}
+
+
+.noticia
+{	border-style:     outset;
+	border-color:     rgb(0, 60, 69);
+	border-radius:15px;
+	background-color: white;
+	padding:		  20px;
+	
+	margin-left:	  0px;
+	margin-right:     0px;
+	margin-top:       5px;
+	margin-bottom:    40px;
+	
+	color:            rgb(106, 106, 106);
+	font-weight:      bold;
+}
+
+
+.noticiacompleta
+{	border-style:     outset;
+	border-color:     rgb(0, 60, 69);
+	border-radius:15px;
+	background-color: white;
+	padding:		  20px;
+	
+	margin-left:	  0px;
+	margin-right:     0px;
+	margin-top:       10px;
+	margin-bottom:    40px;
+	
+	color:            rgb(106, 106, 106);
+	font-weight:      bold;
+}
+
+
+.cuerpoweb{
+	font-family: Gill Sans, Calibri;
+	font-size: 16px;
+	margin-left:0px;
+	margin-right:0px;	
+}
+
+
+
+.formatoimagen1{
+	margin-top:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+
+	position:relative;
+}
+
+
+.formatoimagen2{
+	margin-top:20px;
+	margin-right:0px;
+	margin-left:0px;
+	margin-bottom:0px;
+	
+	position:relative;
+}
+
+
+.formatoimagen3{
+	margin-top:20px;
+	margin-right:0px;
+	margin-left:0px;
+	margin-bottom:0px;
+	
+	position:relative;
+}
+
+
+.formatoimagen4{
+	margin-top:20px;
+	margin-right:0px;
+	margin-left:0px;
+	margin-bottom:0px;
+	
+	position:relative;
+}
+
+
+.espaciado{
+	margin-top: 80px;
+	margin-bottom:25px;
+	
+	
+	position:relative;
+}
+
+.espaciadoimagen{
+	margin-top: 80px;
+	margin-bottom:25px;
+	margin-left:0px;
+	margin-right:0px;
+	
+	position:relative;
+}
+
+
+.espaciadofinal{
+	margin-top: 80px;
+	margin-bottom:400px;
+		
+	position:relative;
+}
+
+
+.colorfecha{
+	color:            rgb(106, 106, 106);	
+}
+
+
+
+.hs-responsive-embed-youtube {
+
+	position: relative;
+
+	margin-top: 25px;
+	margin-bottom:25px;
+	margin-left:0px;
+	margin-right:0px;
+	
+	padding-bottom: 60%; /* 16:9 Aspect Ratio */
+	padding-top: 25px;
+}
+
+
+.hs-responsive-embed-youtube iframe {
+
+	position: absolute;
+
+	margin-top: 25px;
+	margin-bottom:25px;
+	
+	width: 100%!important;
+	height: 100%!important;
+}
+
+
+
+/* =====================================================*/
+/* ===< Estilos                                     >===*/
+/* =====================================================*/
+/**/
+/* ========================*/
+/* Estilos del cuerpo      */
+/* ========================*/
+body {
+	background-image: url("img/background.png");
+	font-family:Arial, Calibri;
+}
+
+/* ========================*/
+/* Estilos de cabeceras    */
+/* ========================*/
+h1{
+	background: linear-gradient(rgb(0, 9, 80), rgb(230, 0, 18));
+	padding:35px;
+	border-radius:25px;
+	color:white;
+	
+	font-family: Gill Sans, Calibri;
+	font-size: 30px;
+}
+
+h2{
+	background: linear-gradient(rgb(0, 60, 69), rgb(0, 154, 114));
+	background-color:rgb(0, 60, 69);
+	padding:25px;
+	margin:0px;
+	border-radius:20px;
+	
+	font-family: Gill Sans, Calibri;
+	font-size: 20px;
+}
+
+
+/* ========================*/
+/* Estilos de enlaces      */
+/* ========================*/
+
+/* Enlace normal + visitado */
+a:link, a:visited{
+    background-color: rgb(19, 205, 0);
+	border-radius:15px;
+	color:white;
+	padding:15px 25px;
+	text-align:left;
+	display:inline-block;
+
+	border-style:     outset;
+	border-color:     rgb(0, 60, 69);
+	background-color: white;
+	padding:		  20px;
+	
+	margin-left:	  0px;
+	margin-right:     0px;
+	margin-top:       5px;
+	margin-bottom:    90px;
+	
+	color:            rgb(106, 106, 106);
+	font-weight:      bold;	
+}
+
+a:visited{
+	color:rgb(106, 106, 106);
+}
+
+/* Ratón sobre el enlaces */
+a:hover {
+    color: purple;
+}
+
+/* Enlace seleccionado */
+a:active {
+    color: blue;
+}
+
