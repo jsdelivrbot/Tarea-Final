@@ -17,6 +17,16 @@ Por último, he codificado el javascript y los archivos json. A la hora de reali
 ## Paso 3: validación del código.
 En este paso, he realizado la validación tanto de los html, como del javascript, los json y los css. No he introducido las imágenes puesto que en esta en entrega no se han solicitado. Se puede comprobar mediante los enlaces de GitHub.
 
+![Imagen 1](/img/validacion_js.PNG).
+
+![Imagen 2](/img/validacion_json1.PNG).
+
+![Imagen 3](/img/validacion_json2.PNG).
+
+![Imagen 4](/img/validacion_css_mob.PNG).
+
+![Imagen 5](/img/validacion_css_pc.PNG).
+
 ## Paso 4: comprobación de apartados.
 En cuanto a los apartados solicitados:
 
